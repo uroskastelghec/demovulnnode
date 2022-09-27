@@ -19,5 +19,5 @@ app:
   # Docs: https://docs.stackhawk.com/
   # Contact Support: support@stackhawk.com
   
-hawk:
-  failureThreshold: high
+# hawk:
+#   failureThreshold: high
